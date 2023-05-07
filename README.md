@@ -21,7 +21,7 @@ organizações.
 
 #### Referências Bibliográficas
 
-*https://einvestidor.estadao.com.br/comportamento/pix-satisfacao-com-bancos/
+* https://einvestidor.estadao.com.br/comportamento/pix-satisfacao-com-bancos/
 
 
 
