@@ -18,7 +18,7 @@ de que o serviço atenda a necessidade e expectativa do cliente de maneira efeti
 
   Segundo pesquisa realizada pela Bain & Company(empresa de consultoria e gestão), realizada por meio do NPM Prism
 (ferramenta utilizada para medir a experiência do cliente), a adoção do pix resultou no aumento da satisfação dos
-clientes com os bancos em cerca de 13% quando comparado aos clientes que ainda não o utilizam. 
+clientes com os bancos em cerca de 13% quando comparado aos clientes que ainda não o utilizam.  
 
 
 
