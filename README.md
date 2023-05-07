@@ -15,6 +15,7 @@ burocrático, que tanto afeta os usuários e clientes de bancos, vem aumentando 
 organizações. O tempo que o usuário leva para realizar determinada ação é uma maneira de se medir a qualidade
 da experiência do usuário, de modo que, quanto mais reduzido e simplificado for esse processo, maior a chance
 de que o serviço atenda a necessidade e expectativa do cliente de maneira efetiva.
+
   Segundo pesquisa realizada pela Bain & Company(empresa de consultoria e gestão), realizada por meio do NPM Prism
 (ferramenta utilizada para medir a experiência do cliente), a adoção do pix resultou no aumento da satisfação dos
 clientes com os bancos em cerca de 13% quando comparado aos clientes que ainda não o utilizam. 
