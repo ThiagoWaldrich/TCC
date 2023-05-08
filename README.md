@@ -19,8 +19,9 @@ de que o serviço atenda a necessidade e expectativa do cliente de maneira efeti
   Segundo pesquisa realizada pela Bain & Company(empresa de consultoria e gestão), realizada por meio do NPM Prism
 (ferramenta utilizada para medir a experiência do cliente), a adoção do pix resultou no aumento da satisfação dos
 clientes com os bancos em cerca de 13% quando comparado aos clientes que ainda não o utilizam. A utilização de uma
-ferramenta que possa gerar códigos QR para realização de pagamentos por whatsapp de forma automatizada visa
-transferir o percentual de satisfação dos clientes em relação aos bancos para outros empreendimentos.
+ferramenta que possa gerar códigos QR para realização de pagamentos, via whatsapp, de forma automatizada visa
+transferir o percentual de satisfação dos clientes em relação aos bancos para outros empreendimentos que possam
+adotar a tecnologia como método de pagamento.
 
 
 
