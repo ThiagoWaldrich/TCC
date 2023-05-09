@@ -23,6 +23,8 @@ ferramenta que possa gerar códigos QR para realização de pagamentos, via what
 transferir o percentual de satisfação dos clientes em relação aos bancos para outros empreendimentos que possam
 adotar a tecnologia como método de pagamento.
 
+  Parte-se da hipótese que cada cliente, previamente registrado no sistema por meio dos seus dados sensíveis, irão
+disponibilizar um número de celular para receber as faturas.
 
 
 
